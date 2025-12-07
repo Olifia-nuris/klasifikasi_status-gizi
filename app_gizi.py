@@ -16,7 +16,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, classification_report
 
 dataset='https://drive.google.com/uc?id=138anPqj-DF8Af_1HS6FRwkubr34SsK6n'
-model= r"F:\UTM Teknik Informatika\Semester 7\CODE\model_gizi.sav"
+model= r"model_gizi.sav"
 label_map = {
         0: "Gizi Baik",
         1: "Gizi Kurang",
