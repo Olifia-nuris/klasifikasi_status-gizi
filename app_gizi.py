@@ -7,7 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from imblearn.over_sampling import SMOTE
+# from imblearn.over_sampling import SMOTE
 from collections import Counter
 import math
 import os
